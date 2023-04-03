@@ -1,12 +1,13 @@
-# Nombre final del curso
+# Azure: Migración de aplicaciones .NET a la nube
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Azure: Migración de aplicaciones .NET a la nube]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Obtén las habilidades y herramientas prácticas necesarias para migrar aplicaciones .NET a la nube de Microsoft Azure. A través de ejemplos reales y casos de uso, aprenderás cómo migrar tus aplicaciones .NET a la nube de Azure, así como también cómo resolver problemas y mejorar el rendimiento en entornos en la nube. Este curso te proporcionará los conocimientos necesarios para que puedas explorar y fortalecer tus habilidades en migración de aplicaciones, en un entorno en constante evolución.
 
 ## Instrucciones
 
