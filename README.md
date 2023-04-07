@@ -8,7 +8,7 @@ Consulta el archivo Readme en la rama main para obtener instrucciones e informac
 
 DESCRIPCIÓN DEL CURSO
 
-Obtén las habilidades y herramientas prácticas necesarias para migrar aplicaciones .NET a la nube de Microsoft Azure. A través de ejemplos reales y casos de uso, aprenderás cómo migrar tus aplicaciones .NET a la nube de Azure, así como también cómo resolver problemas y mejorar el rendimiento en entornos en la nube. Este curso te proporcionará los conocimientos necesarios para que puedas explorar y fortalecer tus habilidades en migración de aplicaciones, en un entorno en constante evolución.
+Obtén las habilidades y herramientas prácticas necesarias para migrar aplicaciones .NET a la nube de Microsoft Azure. A través de ejemplos reales y casos de uso, aprenderás cómo migrar tus aplicaciones .NET a la nube de Azure, así como también cómo resolver problemas que pudiesen ocurrir. Este curso te proporcionará los conocimientos necesarios para que puedas explorar y fortalecer tus habilidades en migración de aplicaciones, en un entorno en constante evolución.
 
 ## Instrucciones
 
