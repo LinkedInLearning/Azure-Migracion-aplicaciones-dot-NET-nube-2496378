@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Azure: Migración de aplicaciones .NET a la nube`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image][lil-thumbnail-url]
+![COURSENAME][lil-thumbnail-url]
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
